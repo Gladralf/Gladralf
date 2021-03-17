@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alper Kaan Şimşek, a.k.a @Gladralf
+- 👋 Hi, I’m Alper Kaan Şimşek, @Gladralf
 - 👀 I’m interested in Game Development and Algorithms
 - 🌱 I’m currently learning C#, nodejs and Python
 - 📫 How to reach me, alper.kaansimsek@gmail.com
