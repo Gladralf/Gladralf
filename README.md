@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alper Kaan Şimşek, @Gladralf
+- 👋 Hi, I’m Alper Kaan Şimşek, 
 - 👀 I’m interested in Game Development and Algorithms
 - I'm a psychology student interested in the cognitive psychology and cognitive sciences. 
 - I want to combine my programming skills with psychology. 
