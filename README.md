@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alper Kaan Şimşek, @Gladralf
 - 👀 I’m interested in Game Development and Algorithms
-- I'm a psychology student and interested in the cognitive psychology. 
+- I'm a psychology student interested in the cognitive psychology and cognitive sciences. 
 - I want to combine my programming skills with psychology. 
 - I'm planning to study recognision, memory and recognision memory.
 - I'm also interested in board and video game design and how player behaviors are changing depending on the design choices. 
